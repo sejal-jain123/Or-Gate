@@ -1,5 +1,4 @@
 # Or-Gate
-
 In this project, I designed a simple OR gate using Cadence Virtuoso. The process involves creating both the circuit and its corresponding cellview for better visualization and understanding. Below is a breakdown of the steps and methodologies followed.
 
 --> Introduction
