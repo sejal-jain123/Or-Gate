@@ -17,4 +17,3 @@ After completing the schematic and layout, I ran simulations to verify the OR ga
 DC Analysis: Verified the voltage levels for different input combinations.
 Transient Analysis: Checked the switching behavior and timing.
 
-
